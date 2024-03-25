@@ -7,7 +7,7 @@ public class AddPerform {
 		
 		int a = 10;
 		int b = 20;
-		int c = 30;
+		int c = 5;
 		int sum = a + b+c;
 		
 		System.out.println("Sum of two numbers is: " + sum);
