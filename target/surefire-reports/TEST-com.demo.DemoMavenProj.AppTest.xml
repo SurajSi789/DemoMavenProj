@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/surajsingh/eclipse-workspace/DemoMavenProj/target/surefire/surefirebooter-20240325150739878_3.jar /Users/surajsingh/eclipse-workspace/DemoMavenProj/target/surefire 2024-03-25T15-07-39_841-jvmRun1 surefire-20240325150739878_1tmp surefire_0-20240325150739878_2tmp"/>
+    <property name="sun.java.command" value="/Users/surajsingh/eclipse-workspace/DemoMavenProj/target/surefire/surefirebooter-20240325170329133_3.jar /Users/surajsingh/eclipse-workspace/DemoMavenProj/target/surefire 2024-03-25T17-03-29_102-jvmRun1 surefire-20240325170329133_1tmp surefire_0-20240325170329133_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/surajsingh/eclipse-workspace/DemoMavenProj/target/test-classes:/Users/surajsingh/eclipse-workspace/DemoMavenProj/target/classes:/Users/surajsingh/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/surajsingh/eclipse-workspace/DemoMavenProj/target/surefire/surefirebooter-20240325150739878_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/surajsingh/eclipse-workspace/DemoMavenProj/target/surefire/surefirebooter-20240325170329133_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
